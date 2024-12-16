@@ -35,6 +35,9 @@ double h = 3;
 a = w * h;
 Console.WriteLine(a);
 
+//Bonus2
+//constants have fixed values but variables can be modified 
+
 //C# Control Flow
 Console.WriteLine("enter time");
 int currenthour = Convert.ToInt32(Console.ReadLine());
